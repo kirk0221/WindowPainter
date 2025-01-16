@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8f293a6-41d0-4f2f-92f3-d94b2be7e560)# UML
+# UML
 ![image](https://github.com/user-attachments/assets/c27c6ae7-414c-4d74-97d8-5166dde23c5c)
 
 # 도형 기능
